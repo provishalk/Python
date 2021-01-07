@@ -1,0 +1,5 @@
+You should immediatrly notice that we import another handy command named exists. This returns true
+if a file exists, based on its name in string as an argument. It return False if not. We'll be using this function
+in the second half of this book to do lots of things, bt right now you shoud see how you can import it.
+Using import is a way to get tons of free code other better(well, usually) programmers have written so
+you do not ave to write it.
