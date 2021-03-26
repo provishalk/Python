@@ -13,7 +13,7 @@ mydata.info()
 #print(mydata.tail())
 mydata = mydata.fillna(0)
 print()
-Diabetes = mydata[["Glucose","BMI","Age","Outcome"]]
+Diabetes = mydata[["Glucose", "BMI", "Age", "Outcome"]]
 print(Diabetes.head())
 print(Diabetes.describe())
 print(Diabetes.columns[:])
